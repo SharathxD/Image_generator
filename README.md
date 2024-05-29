@@ -1,1 +1,13 @@
-# This is a image generator code using python and openAi api-key , and running using streamlit
+# IMAGE GENERATOR ~[PYTHON N STREAMLIT]
+
+Required modules
+1. openai
+2. streamlit
+
+# Commands to install
+
+pip install openai
+pip install streamlit
+
+# Command to run 
+streamlit run app.py
