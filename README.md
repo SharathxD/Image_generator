@@ -6,8 +6,7 @@ Required modules
 
 # Commands to install
 
-pip install openai
-pip install streamlit
+pip install openai,streamlit
 
 # Command to run 
 streamlit run app.py
